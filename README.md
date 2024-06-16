@@ -21,3 +21,5 @@ This is a simple image search engine web application that allows users to search
   - Lorem Picsum for providing the image API.
 
 # Live Demo
+
+https://sahimbehlim.github.io/Image-Search-Engine/
